@@ -10,6 +10,7 @@ public class UseAddition {
 		Addition a=new Addition();
 		System.out.println(a.addOperation(num1,num2));
 		System.out.println(a.addOperation(num3, num4,num5));
+		System.out.println("adshygsgs");
 		
 	}
 
